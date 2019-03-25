@@ -8,7 +8,7 @@
 
 4.https://habr.com/ru/company/mailru/blog/263413/ - пример профилирования приложения
 
-5.https://medium.com/square-corner-blog/leakcanary-detect-all-memory-leaks-875ff8360745 - статья о оиструменте LeakCanary
+5.https://medium.com/square-corner-blog/leakcanary-detect-all-memory-leaks-875ff8360745 - статья о инструменте LeakCanary
 
 6.https://android.jlelse.eu/android-dev-tool-best-practice-with-strictmode-a023e09030a5 - статья про StrictMode
 
