@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leak Example</string>
+    <string name="next">next ></string>
+    <string name="handler_activity">Handler activity</string>
+    <string name="async_task_activity">Async task activity</string>
+    <string name="inner_class_activity">Inner class activity</string>
+    <string name="thread_activity">Thread activity</string>
+    <string name="static_activity">Static activity</string>
+    <string name="rx_activity">Rx activity</string>
+</resources>
